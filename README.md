@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+- 📫 How to reach me: liaojunyang20@gmail.com
+- 😄 I’m interested in Data Science!
+- 🌱 I’m currently learning html, PyTorch and Spark
+- 👯 I’m looking to collaborate on any Machine Learning/ Data Science projects
+
 <!--
 **junyangliao/junyangliao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
